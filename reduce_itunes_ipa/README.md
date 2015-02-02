@@ -16,3 +16,5 @@ Get you APP_KEY & APP_SECRET from https://www.dropbox.com/developers/apps
 
 **db_helper.py <filename>.ipa --reduce_file**
 *Reduce size of selected <filename>.ipa. File will be damaged, but the applications could be upgraded via itunes*
+
+![](./screenshots/hazel_reduce_itunes_ipa.gif)
